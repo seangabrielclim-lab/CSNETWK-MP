@@ -10,8 +10,8 @@ Elijah Rexson Mayor
 
 **Build and run instructions, including how to enable verbose mode**
 > Prerequisites
- - 
- -   
+ - Text
+ - Text
 
 > Running peer instances
  - Text
