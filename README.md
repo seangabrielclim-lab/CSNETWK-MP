@@ -8,6 +8,19 @@ Elijah Rexson Mayor
 
 **Programming Language:** Python
 
+**Build and run instructions, including how to enable verbose mode**
+> Prerequisites
+ - 
+ -   
+
+> Running peer instances
+ - Text
+ - Text
+
+> Toggle & enable verbose mode
+ - Text
+ - Text
+
 **Work Distribution Matrix**
 Derk Cheng
 - Randomness Ceremony & Ring/Wonder/Guild derivation (commit-reveal)
@@ -66,3 +79,13 @@ AI-assisted tools were used during the creation of this laboratory experiment to
 1. How it was used - AI-assisted tool
 2. How it was used - AI-assisted tool
 3. How it was used - AI-assisted tool
+
+**Any known limitations or deviations from the RFC**
+> Protocol-level constraints
+ - Text
+ - Text
+
+> Integration & execution limits
+ - Text
+ - Text
+ - Text
